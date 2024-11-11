@@ -1,9 +1,9 @@
 ## tugas pratikum 1
-#### 1.Selesaikan langkah-langkah praktikum tersebut, lalu dokumentasikan berupa GIF hasil akhir praktikum beserta penjelasannya di file README.md! Jika Anda menemukan ada yang error atau tidak berjalan dengan baik, silakan diperbaiki.
-#### 2.Jelaskan maksud dari langkah 4 pada praktikum tersebut! Mengapa dilakukan demikian?
-#### 3.Mengapa perlu variabel plan di langkah 6 pada praktikum tersebut? Mengapa dibuat konstanta ?
-#### 4.Lakukan capture hasil dari Langkah 9 berupa GIF, kemudian jelaskan apa yang telah Anda buat!
-#### 5.Apa kegunaan method pada Langkah 11 dan 13 dalam lifecyle state ?
+ 1.[Selesaikan langkah-langkah praktikum tersebut, lalu dokumentasikan berupa GIF hasil akhir praktikum beserta penjelasannya di file README.md! Jika Anda menemukan ada yang error atau tidak berjalan dengan baik, silakan diperbaiki.]
+2.[Jelaskan maksud dari langkah 4 pada praktikum tersebut! Mengapa dilakukan demikian?]
+3.[Mengapa perlu variabel plan di langkah 6 pada praktikum tersebut? Mengapa dibuat konstanta ?]
+4.[Lakukan capture hasil dari Langkah 9 berupa GIF, kemudian jelaskan apa yang telah Anda buat!]
+5.[Apa kegunaan method pada Langkah 11 dan 13 dalam lifecyle state ?]
 ### jawab
 ![11-11-2024 (09-00-31)](https://github.com/user-attachments/assets/dd996083-fcdd-48db-8d37-7b043a8cc52c)
 #### 2.mengambungkan task.dart dan plan.dart dalam satu file
@@ -17,11 +17,22 @@
 4. [Lakukan capture hasil dari Langkah 9 berupa GIF, kemudian jelaskan apa yang telah Anda buat!]
 
 
-### 1.hasil
+#### 1.hasil
 ![11-11-2024 (09-33-19)](https://github.com/user-attachments/assets/5e23211f-2f09-4407-a23a-5e5d1c49b82a)
-### 2.yang dimaksud interwidget adalah planprovider,dan mengapa menggunakan InheritedNotifier karena inhertedNotifier adalah subclass dari InheritedWidget
-### 3.agar bisa memudahkan sytem plan seperti berapa plan yang sudah selesai dan menghitung seberapa banyak plan
-### 4.![11-11-2024 (09-33-19)](https://github.com/user-attachments/assets/b598314f-2d83-435d-8a21-81cb2640f8a4) 
+#### 2.yang dimaksud interwidget adalah planprovider,dan mengapa menggunakan InheritedNotifier karena inhertedNotifier adalah subclass dari InheritedWidget
+#### 3.agar bisa memudahkan sytem plan seperti berapa plan yang sudah selesai dan menghitung seberapa banyak plan
+#### 4.![11-11-2024 (09-33-19)](https://github.com/user-attachments/assets/b598314f-2d83-435d-8a21-81cb2640f8a4) 
+
+## tugas pratikum 3
+1.[Selesaikan langkah-langkah praktikum tersebut, lalu dokumentasikan berupa GIF hasil akhir praktikum beserta penjelasannya di file README.md! Jika Anda menemukan ada yang error atau tidak berjalan dengan baik, silakan diperbaiki sesuai dengan tujuan aplikasi tersebut dibuat.]
+2.[Berdasarkan Praktikum 3 yang telah Anda lakukan, jelaskan maksud dari gambar diagram berikut ini!]
+3.[Lakukan capture hasil dari Langkah 14 berupa GIF, kemudian jelaskan apa yang telah Anda buat!]
+
+#### 1.hasil
+![11-11-2024 (12-33-06)](https://github.com/user-attachments/assets/614b485d-64d1-4b73-99b0-feb9a7e72e8c)
+#### 2.diagram ini menunjukan proses navigasi dari layar PlanCreatorScreen ke layar PlanScreen dengan penggunaan Navigator.push
+#### 3.membuat sebuah kelompok atau grup kegiatan yang berbeda jika sudah membuat grup maka dapat disiisi dengan kegiatan yang ingin dilakukan
+![11-11-2024 (12-33-06)](https://github.com/user-attachments/assets/0a2ff8b8-951c-4c71-9460-fcb81830d9a5)
 
 
 
